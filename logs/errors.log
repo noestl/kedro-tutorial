@@ -1,0 +1,4 @@
+2022-01-07 11:37:24,082 - kedro.pipeline.node - ERROR - Node `split_data_node: split_data([model_input_table,parameters]) -> [X_train,X_test,y_train,y_test]` failed with error: 
+'features'
+2022-01-07 11:46:09,733 - kedro.pipeline.node - ERROR - Node `split_data_node: split_data([model_input_table,parameters]) -> [X_train,X_test,y_train,y_test]` failed with error: 
+"['review_scores_ratings'] not in index"
