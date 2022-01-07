@@ -1,0 +1,19 @@
+2022-01-07 10:12:24,449 - root - INFO - ** Kedro project Kedro Tutorial
+2022-01-07 10:12:24,450 - root - INFO - Defined global variable `context`, `session`, `catalog` and `pipelines`
+2022-01-07 10:12:25,918 - root - INFO - Registered line magic `run_viz`
+2022-01-07 10:12:33,670 - kedro.io.data_catalog - INFO - Loading data from `companies` (CSVDataSet)...
+2022-01-07 10:13:54,444 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2022-01-07 10:13:54,489 - root - INFO - ** Kedro project Kedro Tutorial
+2022-01-07 10:13:54,489 - root - INFO - Defined global variable `context`, `session`, `catalog` and `pipelines`
+2022-01-07 10:13:54,504 - root - INFO - Registered line magic `run_viz`
+2022-01-07 10:13:55,481 - kedro.io.data_catalog - INFO - Loading data from `shuttles` (ExcelDataSet)...
+2022-01-07 10:14:12,021 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2022-01-07 10:14:12,065 - root - INFO - ** Kedro project Kedro Tutorial
+2022-01-07 10:14:12,066 - root - INFO - Defined global variable `context`, `session`, `catalog` and `pipelines`
+2022-01-07 10:14:12,081 - root - INFO - Registered line magic `run_viz`
+2022-01-07 10:14:15,687 - kedro.io.data_catalog - INFO - Loading data from `shuttles` (ExcelDataSet)...
+2022-01-07 10:14:26,031 - root - INFO - ** Kedro project Kedro Tutorial
+2022-01-07 10:14:26,031 - root - INFO - Defined global variable `context`, `session`, `catalog` and `pipelines`
+2022-01-07 10:14:27,472 - root - INFO - Registered line magic `run_viz`
+2022-01-07 10:14:28,817 - kedro.io.data_catalog - INFO - Loading data from `shuttles` (ExcelDataSet)...
+2022-01-07 10:15:40,839 - kedro.io.data_catalog - INFO - Loading data from `shuttles` (ExcelDataSet)...
